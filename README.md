@@ -1,7 +1,7 @@
-#LogicSimulator
+LogicSimulator
 Welcome to LogicSimulator, an interactive web-based application built with React, designed to simulate digital logic circuits. This project provides an intuitive and educational platform for students, hobbyists, and professionals to design, visualize, and test digital logic circuits in real-time.
 
-##Features
+Features
 
 Drag-and-Drop Interface: Easily drag and drop components onto the workspace to build circuits.
 Component Library: Includes a rich library of components such as AND, OR, NOT, NAND, NOR, XOR, XNOR gates, flip-flops, multiplexers, demultiplexers, and more.
